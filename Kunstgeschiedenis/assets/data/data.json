@@ -1,0 +1,3098 @@
+[
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Giotto",
+    "image":"./assets/images/Giotto1.jpg",
+    "id": 1
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Da Vinci",
+    "image":"./assets/images/LeonardoDaVinci1.jpg",
+    "id": 2
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Da Vinci",
+    "image":"./assets/images/LeonardoDaVinci2.jpg",
+    "id": 3
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Da Vinci",
+    "image":"./assets/images/LeonardoDaVinci3.jpg",
+    "id": 4
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Da Vinci",
+    "image":"./assets/images/LeonardoDaVinci4.jpg",
+    "id": 5
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Da Vinci",
+    "image":"./assets/images/LeonardoDaVinci5.jpg",
+    "id": 6
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Buonarroti",
+    "image":"./assets/images/MichaelangeloBuonarroti1.jpg",
+    "id": 7
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Buonarroti",
+    "image":"./assets/images/MichaelangeloBuonarroti2.jpg",
+    "id": 8
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Buonarroti",
+    "image":"./assets/images/MichaelangeloBuonarroti3.jpg",
+    "id": 9
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Buonarroti",
+    "image":"./assets/images/MichaelangeloBuonarroti4.jpg",
+    "id": 10
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Raphael",
+    "image":"./assets/images/Raphael1.jpg",
+    "id": 11
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Raphael",
+    "image":"./assets/images/Raphael2.jpg",
+    "id": 12
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Donatello",
+    "image":"./assets/images/Donatello1.jpg",
+    "id": 13
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Titiaan",
+    "image":"./assets/images/Titiaan1.jpg",
+    "id": 14
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Titiaan",
+    "image":"./assets/images/Titiaan2.jpg",
+    "id": 15
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Van Eyck",
+    "image":"./assets/images/JanVanEyck1.jpg",
+    "id": 16
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Van Eyck",
+    "image":"./assets/images/JanVanEyck2.jpg",
+    "id": 17
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Van Der Weyden",
+    "image":"./assets/images/RogierVanDerWeyden1.jpg",
+    "id": 18
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Van Der Weyden",
+    "image":"./assets/images/RogierVanDerWeyden2.jpg",
+    "id": 20
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Breughel",
+    "image":"./assets/images/PieterBreughel1.jpg",
+    "id": 21
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Breughel",
+    "image":"./assets/images/PieterBreughel2.jpg",
+    "id": 22
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Breughel",
+    "image":"./assets/images/PieterBreughel3.jpg",
+    "id": 23
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Breughel",
+    "image":"./assets/images/PieterBreughelDJ1.jpg",
+    "id": 24
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Breughel",
+    "image":"./assets/images/JanBreughel1.jpg",
+    "id": 25
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Durer",
+    "image":"./assets/images/AlbrechtDurer1.jpg",
+    "id": 26
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Durer",
+    "image":"./assets/images/AlbrechtDurer2.jpg",
+    "id": 27
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Durer",
+    "image":"./assets/images/AlbrechtDurer3.jpg",
+    "id": 28
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Durer",
+    "image":"./assets/images/AlbrechtDurer4.jpg",
+    "id": 29
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Durer",
+    "image":"./assets/images/AlbrechtDurer5.jpg",
+    "id": 30
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Durer",
+    "image":"./assets/images/AlbrechtDurer6.jpg",
+    "id": 31
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Bosch",
+    "image":"./assets/images/HieronymusBosch1.jpg",
+    "id": 32
+  },
+  {
+    "Kunststroming":"Renaissance",
+    "Artiest":"Bosch",
+    "image":"./assets/images/HieronymusBosch2.jpg",
+    "id": 33
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Rubens",
+    "image":"./assets/images/Rubens1.jpg",
+    "id": 34
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Rubens",
+    "image":"./assets/images/Rubens2.jpg",
+    "id": 35
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Rubens",
+    "image":"./assets/images/Rubens3.jpg",
+    "id": 36
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Rubens",
+    "image":"./assets/images/Rubens4.jpg",
+    "id": 37
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Rubens",
+    "image":"./assets/images/Rubens5.jpg",
+    "id": 38
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Jordaens",
+    "image":"./assets/images/Jordaens1.jpg",
+    "id": 39
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Van Rijn",
+    "image":"./assets/images/VanRijn1.jpg",
+    "id": 40
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Van Rijn",
+    "image":"./assets/images/VanRijn2.jpg",
+    "id": 41
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Van Rijn",
+    "image":"./assets/images/VanRijn3.jpg",
+    "id": 42
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Vermeer",
+    "image":"./assets/images/Vermeer1.jpg",
+    "id": 43
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Vermeer",
+    "image":"./assets/images/Vermeer2.jpg",
+    "id": 44
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hals",
+    "image":"./assets/images/Hals1.jpg",
+    "id": 45
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hals",
+    "image":"./assets/images/Hals2.jpg",
+    "id": 46
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hals",
+    "image":"./assets/images/Hals3.jpg",
+    "id": 47
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Caravaggio",
+    "image":"./assets/images/Caravaggio1.jpg",
+    "id": 48
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Caravaggio",
+    "image":"./assets/images/Caravaggio2.jpg",
+    "id": 49
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Gentileschi",
+    "image":"./assets/images/Gentileschi1.jpg",
+    "id": 50
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Bigot",
+    "image":"./assets/images/Bigot1.jpg",
+    "id": 51
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Le Brun",
+    "image":"./assets/images/LeBrun1.jpg",
+    "id": 52
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Velasquez",
+    "image":"./assets/images/Velasquez1.jpg",
+    "id": 53
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Velasquez",
+    "image":"./assets/images/Velasquez2.jpg",
+    "id": 54
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Reynolds",
+    "image":"./assets/images/Reynolds1.jpg",
+    "id": 55
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth1.jpg",
+    "id": 56
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth2.jpg",
+    "id": 57
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth3.jpg",
+    "id": 58
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth4.jpg",
+    "id": 59
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth5.jpg",
+    "id": 60
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth6.jpg",
+    "id": 61
+  },
+  {
+    "Kunststroming":"Barok",
+    "Artiest":"Hogarth",
+    "image":"./assets/images/Hogarth7.jpg",
+    "id": 62
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"Ingres",
+    "image":"./assets/images/Ingres1.jpg",
+    "id": 63
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"Ingres",
+    "image":"./assets/images/Ingres2.jpg",
+    "id": 64
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"David",
+    "image":"./assets/images/David1.jpg",
+    "id": 65
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"David",
+    "image":"./assets/images/David2.jpg",
+    "id": 66
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"Piranesi",
+    "image":"./assets/images/Piranesi1.jpg",
+    "id": 67
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"Piranesi",
+    "image":"./assets/images/Piranesi2.jpg",
+    "id": 68
+  },
+  {
+    "Kunststroming":"Neo Classisme",
+    "Artiest":"Piranesi",
+    "image":"./assets/images/Piranesi3.jpg",
+    "id": 69
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Friedrich",
+    "image":"./assets/images/Friedrich1.jpg",
+    "id": 70
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Friedrich",
+    "image":"./assets/images/Friedrich2.jpg",
+    "id": 71
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Friedrich",
+    "image":"./assets/images/Friedrich3.jpg",
+    "id": 72
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Gericault",
+    "image":"./assets/images/Gericault1.jpg",
+    "id": 73
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Goya",
+    "image":"./assets/images/Goya1.jpg",
+    "id": 74
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Goya",
+    "image":"./assets/images/Goya2.jpg",
+    "id": 75
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Goya",
+    "image":"./assets/images/Goya3.jpg",
+    "id": 76
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Turner",
+    "image":"./assets/images/Turner1.jpg",
+    "id": 77
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Turner",
+    "image":"./assets/images/Turner2.jpg",
+    "id": 78
+  },
+  {
+    "Kunststroming":"Romantiek",
+    "Artiest":"Turner",
+    "image":"./assets/images/Turner3.jpg",
+    "id": 79
+  },
+  {
+    "Kunststroming":"Hudson River School",
+    "Artiest":"Bierstadt",
+    "image":"./assets/images/Bierstadt1.jpg",
+    "id": 80
+  },
+  {
+    "Kunststroming":"Hudson River School",
+    "Artiest":"Cole",
+    "image":"./assets/images/Cole1.jpg",
+    "id": 81
+  },
+  {
+    "Kunststroming":"Hudson River School",
+    "Artiest":"Church",
+    "image":"./assets/images/Church1.jpg",
+    "id": 82
+  },
+  {
+    "Kunststroming":"Oriëntalisme",
+    "Artiest":"Delacroix",
+    "image":"./assets/images/Delacroix1.jpg",
+    "id": 83
+  },
+  {
+    "Kunststroming":"Oriëntalisme",
+    "Artiest":"Delacroix",
+    "image":"./assets/images/Delacroix2.jpg",
+    "id": 84
+  },
+  {
+    "Kunststroming":"Oriëntalisme",
+    "Artiest":"Ingres",
+    "image":"./assets/images/Ingres3.jpg",
+    "id": 85
+  },
+  {
+    "Kunststroming":"Oriëntalisme",
+    "Artiest":"Cogniet",
+    "image":"./assets/images/Cogniet1.jpg",
+    "id": 86
+  },
+  {
+    "Kunststroming":"Preraphaelisme",
+    "Artiest":"Millais",
+    "image":"./assets/images/Millais1.jpg",
+    "id": 87
+  },
+  {
+    "Kunststroming":"Preraphaelisme",
+    "Artiest":"Millais",
+    "image":"./assets/images/Millais2.jpg",
+    "id": 88
+  },
+  {
+    "Kunststroming":"Preraphaelisme",
+    "Artiest":"Hunt",
+    "image":"./assets/images/Hunt1.jpg",
+    "id": 89
+  },
+  {
+    "Kunststroming":"Preraphaelisme",
+    "Artiest":"Waterhouse",
+    "image":"./assets/images/Waterhouse1.jpg",
+    "id": 90
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Millet",
+    "image":"./assets/images/Millet1.jpg",
+    "id": 91
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Rousseau",
+    "image":"./assets/images/Rousseau1.jpg",
+    "id": 92
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Rousseau",
+    "image":"./assets/images/Rousseau2.jpg",
+    "id": 93
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Courbet",
+    "image":"./assets/images/Courbet1.jpg",
+    "id": 94
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Courbet",
+    "image":"./assets/images/Courbet2.jpg",
+    "id": 95
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Manet",
+    "image":"./assets/images/Manet1.jpg",
+    "id": 96
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Manet",
+    "image":"./assets/images/Manet2.jpg",
+    "id": 97
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Constable",
+    "image":"./assets/images/Constable1.jpg",
+    "id": 98
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Constable",
+    "image":"./assets/images/Constable2.jpg",
+    "id": 99
+  },
+  {
+    "Kunststroming":"Realisme",
+    "Artiest":"Constable",
+    "image":"./assets/images/Constable3.jpg",
+    "id": 100
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Nadar",
+    "image":"./assets/images/Nadar1.jpg",
+    "id": 101
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Nadar",
+    "image":"./assets/images/Nadar2.jpg",
+    "id": 102
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Monet",
+    "image":"./assets/images/Monet1.jpg",
+    "id": 19
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Monet",
+    "image":"./assets/images/Monet2.jpg",
+    "id": 103
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Monet",
+    "image":"./assets/images/Monet3.jpg",
+    "id": 104
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Monet",
+    "image":"./assets/images/Monet4.jpg",
+    "id": 105
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Manet",
+    "image":"./assets/images/Manet3.jpg",
+    "id": 106
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Manet",
+    "image":"./assets/images/Manet4.jpg",
+    "id": 107
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Renoir",
+    "image":"./assets/images/Renoir1.jpg",
+    "id": 108
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Renoir",
+    "image":"./assets/images/Renoir2.jpg",
+    "id": 109
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Degas",
+    "image":"./assets/images/Degas1.jpg",
+    "id": 110
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Degas",
+    "image":"./assets/images/Degas1.jpg",
+    "id": 111
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Lautrec",
+    "image":"./assets/images/Lautrec1.jpg",
+    "id": 112
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Lautrec",
+    "image":"./assets/images/Lautrec2.jpg",
+    "id": 113
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Lautrec",
+    "image":"./assets/images/Lautrec3.jpg",
+    "id": 114
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Rodin",
+    "image":"./assets/images/Rodin1.jpg",
+    "id": 115
+  },
+  {
+    "Kunststroming":"Impressionisme",
+    "Artiest":"Rodin",
+    "image":"./assets/images/Rodin2.jpg",
+    "id": 116
+  },
+  {
+    "Kunststroming":"Neo Impressionisme",
+    "Artiest":"Seurat",
+    "image":"./assets/images/Seurat1.jpg",
+    "id": 117
+  },
+  {
+    "Kunststroming":"Neo Impressionisme",
+    "Artiest":"Seurat",
+    "image":"./assets/images/Seurat2.jpg",
+    "id": 118
+  },
+  {
+    "Kunststroming":"Neo Impressionisme",
+    "Artiest":"Signac",
+    "image":"./assets/images/Signac1.jpg",
+    "id": 119
+  },
+  {
+    "Kunststroming":"Neo Impressionisme",
+    "Artiest":"Pissaro",
+    "image":"./assets/images/Pissaro1.jpg",
+    "id": 120
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Cezanne",
+    "image":"./assets/images/Cezanne1.jpg",
+    "id": 121
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Cezanne",
+    "image":"./assets/images/Cezanne2.jpg",
+    "id": 122
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Cezanne",
+    "image":"./assets/images/Cezanne3.jpg",
+    "id": 123
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Gaugain",
+    "image":"./assets/images/Gaugain1.jpg",
+    "id": 124
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Gaugain",
+    "image":"./assets/images/Gaugain2.jpg",
+    "id": 125
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Gaugain",
+    "image":"./assets/images/Gaugain3.jpg",
+    "id": 126
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Van Gogh",
+    "image":"./assets/images/VanGogh1.jpg",
+    "id": 127
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Van Gogh",
+    "image":"./assets/images/VanGogh2.jpg",
+    "id": 128
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Van Gogh",
+    "image":"./assets/images/VanGogh3.jpg",
+    "id": 129
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Van Gogh",
+    "image":"./assets/images/VanGogh4.jpg",
+    "id": 130
+  },
+  {
+    "Kunststroming":"Post-Impressionisme",
+    "Artiest":"Van Gogh",
+    "image":"./assets/images/VanGogh5.jpg",
+    "id": 131
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Ensor",
+    "image":"./assets/images/Ensor1.jpg",
+    "id": 132
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Ensor",
+    "image":"./assets/images/Ensor2.jpg",
+    "id": 133
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Ensor",
+    "image":"./assets/images/Ensor3.jpg",
+    "id": 134
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Ensor",
+    "image":"./assets/images/Ensor4.jpg",
+    "id": 135
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Khnopff",
+    "image":"./assets/images/Khnopff1.jpg",
+    "id": 136
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Khnopff",
+    "image":"./assets/images/Khnopff2.jpg",
+    "id": 137
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Moreau",
+    "image":"./assets/images/Moreau1.jpg",
+    "id": 138
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Spilliaert",
+    "image":"./assets/images/Spilliaert1.jpg",
+    "id": 177
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Spilliaert",
+    "image":"./assets/images/Spilliaert2.jpg",
+    "id": 139
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Spilliaert",
+    "image":"./assets/images/Spilliaert3.jpg",
+    "id": 140
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Minne",
+    "image":"./assets/images/Minne1.jpg",
+    "id": 141
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Minne",
+    "image":"./assets/images/Minne2.jpg",
+    "id": 142
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Munch",
+    "image":"./assets/images/Munch1.jpg",
+    "id": 143
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Munch",
+    "image":"./assets/images/Munch2.jpg",
+    "id": 144
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Munch",
+    "image":"./assets/images/Munch3.jpg",
+    "id": 145
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Rops",
+    "image":"./assets/images/Rops1.jpg",
+    "id": 146
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Rops",
+    "image":"./assets/images/Rops2.jpg",
+    "id": 147
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Rops",
+    "image":"./assets/images/Rops3.jpg",
+    "id": 148
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Rops",
+    "image":"./assets/images/Rops4.jpg",
+    "id": 149
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Rops",
+    "image":"./assets/images/Rops5.jpg",
+    "id": 150
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Rops",
+    "image":"./assets/images/Rops6.jpg",
+    "id": 151
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Toorop",
+    "image":"./assets/images/Toorop1.jpg",
+    "id": 152
+  },
+  {
+    "Kunststroming":"Symbolisme",
+    "Artiest":"Toorop",
+    "image":"./assets/images/Toorop2.jpg",
+    "id": 153
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Tiffany",
+    "image":"./assets/images/Tiffany1.jpg",
+    "id": 154
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Tiffany",
+    "image":"./assets/images/Tiffany2.jpg",
+    "id": 155
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Horta",
+    "image":"./assets/images/Horta1.jpg",
+    "id": 156
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Horta",
+    "image":"./assets/images/Horta2.jpg",
+    "id": 157
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Horta",
+    "image":"./assets/images/Horta3.jpg",
+    "id": 158
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Gaudi",
+    "image":"./assets/images/Gaudi1.jpg",
+    "id": 159
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Gaudi",
+    "image":"./assets/images/Gaudi2.jpg",
+    "id": 160
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Mucha",
+    "image":"./assets/images/Mucha1.jpg",
+    "id": 161
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Mucha",
+    "image":"./assets/images/Mucha2.jpg",
+    "id": 162
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Mucha",
+    "image":"./assets/images/Mucha3.jpg",
+    "id": 163
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Mucha",
+    "image":"./assets/images/Mucha4.jpg",
+    "id": 164
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Klimt",
+    "image":"./assets/images/Klimt1.jpg",
+    "id": 165
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Klimt",
+    "image":"./assets/images/Klimt2.jpg",
+    "id": 166
+  },
+  {
+    "Kunststroming":"Art nouveau",
+    "Artiest":"Klimt",
+    "image":"./assets/images/Klimt3.jpg",
+    "id": 167
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso1.jpg",
+    "id": 168
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso2.jpg",
+    "id": 169
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso3.jpg",
+    "id": 170
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso4.jpg",
+    "id": 171
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso5.jpg",
+    "id": 172
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso6.jpg",
+    "id": 173
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso7.jpg",
+    "id": 174
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso8.jpg",
+    "id": 175
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso9.jpg",
+    "id": 176
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso10.jpg",
+    "id": 178
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso11.jpg",
+    "id": 179
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso12.jpg",
+    "id": 180
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso13.jpg",
+    "id": 181
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso14.jpg",
+    "id": 182
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso15.jpg",
+    "id": 183
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso16.jpg",
+    "id": 184
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso17.jpg",
+    "id": 185
+  },
+  {
+    "Kunststroming":"Modernisme",
+    "Artiest":"Picasso",
+    "image":"./assets/images/Picasso18.jpg",
+    "id": 186
+  },
+  {
+    "Kunststroming":"Fauvisme",
+    "Artiest":"Matisse",
+    "image":"./assets/images/Matisse1.jpg",
+    "id": 187
+  },
+  {
+    "Kunststroming":"Fauvisme",
+    "Artiest":"Matisse",
+    "image":"./assets/images/Matisse2.jpg",
+    "id": 188
+  },
+  {
+    "Kunststroming":"Fauvisme",
+    "Artiest":"Derain",
+    "image":"./assets/images/Derain1.jpg",
+    "id": 189
+  },
+  {
+    "Kunststroming":"Fauvisme",
+    "Artiest":"Derain",
+    "image":"./assets/images/Derain2.jpg",
+    "id": 190
+  },
+  {
+    "Kunststroming":"Fauvisme",
+    "Artiest":"Van Dongen",
+    "image":"./assets/images/VanDongen1.jpg",
+    "id": 191
+  },
+  {
+    "Kunststroming":"Fauvisme",
+    "Artiest":"Van Dongen",
+    "image":"./assets/images/VanDongen2.jpg",
+    "id": 192
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Nolde",
+    "image":"./assets/images/Nolde1.jpg",
+    "id": 193
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Nolde",
+    "image":"./assets/images/Nolde2.jpg",
+    "id": 194
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Kirchner",
+    "image":"./assets/images/Kirchner1.jpg",
+    "id": 195
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Kirchner",
+    "image":"./assets/images/Kirchner2.jpg",
+    "id": 196
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Mueller",
+    "image":"./assets/images/Mueller1.jpg",
+    "id": 197
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Mueller",
+    "image":"./assets/images/Mueller2.jpg",
+    "id": 198
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Marc",
+    "image":"./assets/images/Marc1.jpg",
+    "id": 199
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Marc",
+    "image":"./assets/images/Marc2.jpg",
+    "id": 200
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Klee",
+    "image":"./assets/images/Klee1.jpg",
+    "id": 201
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Klee",
+    "image":"./assets/images/Klee2.jpg",
+    "id": 202
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Kandinsky",
+    "image":"./assets/images/Kandinsky1.jpg",
+    "id": 203
+  },
+  {
+    "Kunststroming":"Expressionisme",
+    "Artiest":"Kandinsky",
+    "image":"./assets/images/Kandinsky2.jpg",
+    "id": 204
+  },
+  {
+    "Kunststroming":"Primitivisme",
+    "Artiest":"Modigliani",
+    "image":"./assets/images/Modigliani1.jpg",
+    "id": 205
+  },
+  {
+    "Kunststroming":"Primitivisme",
+    "Artiest":"Modigliani",
+    "image":"./assets/images/Modigliani2.jpg",
+    "id": 206
+  },
+  {
+    "Kunststroming":"Primitivisme",
+    "Artiest":"Moore",
+    "image":"./assets/images/Moore1.jpg",
+    "id": 207
+  },
+  {
+    "Kunststroming":"Primitivisme",
+    "Artiest":"Moore",
+    "image":"./assets/images/Moore2.jpg",
+    "id": 208
+  },
+  {
+    "Kunststroming":"Primitivisme",
+    "Artiest":"Moore",
+    "image":"./assets/images/Moore3.jpg",
+    "id": 209
+  },
+  {
+    "Kunststroming":"Cubisme",
+    "Artiest":"Braque",
+    "image":"./assets/images/Braque1.jpg",
+    "id": 210
+  },
+  {
+    "Kunststroming":"Cubisme",
+    "Artiest":"Braque",
+    "image":"./assets/images/Braque2.jpg",
+    "id": 211
+  },
+  {
+    "Kunststroming":"Cubisme",
+    "Artiest":"Leger",
+    "image":"./assets/images/Leger1.jpg",
+    "id": 212
+  },
+  {
+    "Kunststroming":"Futurisme",
+    "Artiest":"Balla",
+    "image":"./assets/images/Balla1.jpg",
+    "id": 213
+  },
+  {
+    "Kunststroming":"Futurisme",
+    "Artiest":"Balla",
+    "image":"./assets/images/Balla2.jpg",
+    "id": 214
+  },
+  {
+    "Kunststroming":"Futurisme",
+    "Artiest":"Boccioni",
+    "image":"./assets/images/Boccioni1.jpg",
+    "id": 215
+  },
+  {
+    "Kunststroming":"Futurisme",
+    "Artiest":"Boccioni",
+    "image":"./assets/images/Boccioni2.jpg",
+    "id": 216
+  },
+  {
+    "Kunststroming":"Futurisme",
+    "Artiest":"Carra",
+    "image":"./assets/images/Carra1.jpg",
+    "id": 217
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Tatlin",
+    "image":"./assets/images/Tatlin1.jpg",
+    "id": 218
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Rodchenko",
+    "image":"./assets/images/Rodchenko1.jpg",
+    "id": 219
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Stepanova",
+    "image":"./assets/images/Stepnova1.jpg",
+    "id": 220
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Gabo",
+    "image":"./assets/images/Gabo1.jpg",
+    "id": 221
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Gabo",
+    "image":"./assets/images/Gabo2.jpg",
+    "id": 222
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Malevitch",
+    "image":"./assets/images/Malevitch1.jpg",
+    "id": 223
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Malevitch",
+    "image":"./assets/images/Malevitch2.jpg",
+    "id": 224
+  },
+  {
+    "Kunststroming":"Constuctivisme",
+    "Artiest":"Malevitch",
+    "image":"./assets/images/Malevitch3.jpg",
+    "id": 225
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Ray",
+    "image":"./assets/images/Ray1.jpg",
+    "id": 226
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Ray",
+    "image":"./assets/images/Ray2.jpg",
+    "id": 227
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Picabia",
+    "image":"./assets/images/Picabia1.jpg",
+    "id": 228
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Picabia",
+    "image":"./assets/images/Picabia2.jpg",
+    "id": 229
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Schwitters",
+    "image":"./assets/images/Schwitters1.jpg",
+    "id": 230
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Schwitters",
+    "image":"./assets/images/Schwitters2.jpg",
+    "id": 231
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Duchamps",
+    "image":"./assets/images/Duchamps1.jpg",
+    "id": 232
+  },
+  {
+    "Kunststroming":"Dadaisme",
+    "Artiest":"Duchamps",
+    "image":"./assets/images/Duchamps2.jpg",
+    "id": 233
+  },
+  {
+    "Kunststroming":"Neoplastisisme",
+    "Artiest":"Mondriaan",
+    "image":"./assets/images/Mondriaan1.jpg",
+    "id": 234
+  },
+  {
+    "Kunststroming":"Neoplastisisme",
+    "Artiest":"Mondriaan",
+    "image":"./assets/images/Mondriaan2.jpg",
+    "id": 235
+  },
+  {
+    "Kunststroming":"Neoplastisisme",
+    "Artiest":"Van Doesburg",
+    "image":"./assets/images/VanDoesburg1.jpg",
+    "id": 236
+  },
+  {
+    "Kunststroming":"Neoplastisisme",
+    "Artiest":"Van Doesburg",
+    "image":"./assets/images/VanDoesburg2.jpg",
+    "id": 237
+  },
+  {
+    "Kunststroming":"Neoplastisisme",
+    "Artiest":"Rietveld",
+    "image":"./assets/images/Rietveld1.jpg",
+    "id": 238
+  },
+  {
+    "Kunststroming":"Neoplastisisme",
+    "Artiest":"Rietveld",
+    "image":"./assets/images/Rietveld2.jpg",
+    "id": 239
+  },
+  {
+    "Kunststroming":"Precisionisme",
+    "Artiest":"Sheeler",
+    "image":"./assets/images/Sheeler1.jpg",
+    "id": 240
+  },
+  {
+    "Kunststroming":"Precisionisme",
+    "Artiest":"Sheeler",
+    "image":"./assets/images/Sheeler2.jpg",
+    "id": 241
+  },
+  {
+    "Kunststroming":"Precisionisme",
+    "Artiest":"Sheeler",
+    "image":"./assets/images/Sheeler3.jpg",
+    "id": 242
+  },
+  {
+    "Kunststroming":"Precisionisme",
+    "Artiest":"O'Keefe",
+    "image":"./assets/images/OKeefe1.jpg",
+    "id": 243
+  },
+  {
+    "Kunststroming":"Precisionisme",
+    "Artiest":"Demuth",
+    "image":"./assets/images/Demuth1.jpg",
+    "id": 244
+  },
+  {
+    "Kunststroming":"Precisionisme",
+    "Artiest":"Demuth",
+    "image":"./assets/images/Demuth2.jpg",
+    "id": 245
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Magritte",
+    "image":"./assets/images/Magritte1.jpg",
+    "id": 246
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Magritte",
+    "image":"./assets/images/Magritte2.jpg",
+    "id": 247
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Magritte",
+    "image":"./assets/images/Magritte3.jpg",
+    "id": 248
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Magritte",
+    "image":"./assets/images/Magritte4.jpg",
+    "id": 249
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Dali",
+    "image":"./assets/images/Dali1.jpg",
+    "id": 250
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Dali",
+    "image":"./assets/images/Dali2.jpg",
+    "id": 251
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Dali",
+    "image":"./assets/images/Dali3.jpg",
+    "id": 252
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Dali",
+    "image":"./assets/images/Dali4.jpg",
+    "id": 253
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Dali",
+    "image":"./assets/images/Dali5.jpg",
+    "id": 254
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Kahlo",
+    "image":"./assets/images/Kahlo1.jpg",
+    "id": 255
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Kahlo",
+    "image":"./assets/images/Kahlo2.jpg",
+    "id": 256
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Kahlo",
+    "image":"./assets/images/Kahlo3.jpg",
+    "id": 257
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Miro",
+    "image":"./assets/images/Miro1.jpg",
+    "id": 258
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Miro",
+    "image":"./assets/images/Miro2.jpg",
+    "id": 259
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Delvaux",
+    "image":"./assets/images/Delvaux1.jpg",
+    "id": 260
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Delvaux",
+    "image":"./assets/images/Delvaux2.jpg",
+    "id": 261
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Delvaux",
+    "image":"./assets/images/Delvaux3.jpg",
+    "id": 262
+  },
+  {
+    "Kunststroming":"Surrealisme",
+    "Artiest":"Delvaux",
+    "image":"./assets/images/Delvaux4.jpg",
+    "id": 263
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Pollock",
+    "image":"./assets/images/Pollock1.jpg",
+    "id": 264
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Pollock",
+    "image":"./assets/images/Pollock2.jpg",
+    "id": 265
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Pollock",
+    "image":"./assets/images/Pollock3.jpg",
+    "id": 266
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Pollock",
+    "image":"./assets/images/Pollock4.jpg",
+    "id": 267
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"De Kooning",
+    "image":"./assets/images/DeKooning1.jpg",
+    "id": 268
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"De Kooning",
+    "image":"./assets/images/DeKooning2.jpg",
+    "id": 269
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"De Kooning",
+    "image":"./assets/images/DeKooning3.jpg",
+    "id": 270
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Rothko",
+    "image":"./assets/images/Rothko1.jpg",
+    "id": 271
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Rothko",
+    "image":"./assets/images/Rothko2.jpg",
+    "id": 272
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Still",
+    "image":"./assets/images/Still1.jpg",
+    "id": 273
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Still",
+    "image":"./assets/images/Still2.jpg",
+    "id": 274
+  },
+  {
+    "Kunststroming":"Abstract Expressionisme",
+    "Artiest":"Newman",
+    "image":"./assets/images/Newman1.jpg",
+    "id": 275
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Bellows",
+    "image":"./assets/images/Bellows1.jpg",
+    "id": 276
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Bellows",
+    "image":"./assets/images/Bellows2.jpg",
+    "id": 277
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Hopper",
+    "image":"./assets/images/Hopper1.jpg",
+    "id": 278
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Hopper",
+    "image":"./assets/images/Hopper2.jpg",
+    "id": 279
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Hopper",
+    "image":"./assets/images/Hopper3.jpg",
+    "id": 280
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Hopper",
+    "image":"./assets/images/Hopper4.jpg",
+    "id": 281
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Bratby",
+    "image":"./assets/images/Bratby1.jpg",
+    "id": 282
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Evans",
+    "image":"./assets/images/Evans1.jpg",
+    "id": 283
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Evans",
+    "image":"./assets/images/Evans2.jpg",
+    "id": 284
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Lange",
+    "image":"./assets/images/Lange1.jpg",
+    "id": 285
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Lange",
+    "image":"./assets/images/Lange2.jpg",
+    "id": 286
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Goldin",
+    "image":"./assets/images/Goldin1.jpg",
+    "id": 287
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Goldin",
+    "image":"./assets/images/Goldin2.jpg",
+    "id": 288
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Goldin",
+    "image":"./assets/images/Goldin3.jpg",
+    "id": 289
+  },
+  {
+    "Kunststroming":"Sociaal Realisme",
+    "Artiest":"Goldin",
+    "image":"./assets/images/Goldin4.jpg",
+    "id": 290
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Tynguely",
+    "image":"./assets/images/Tynguely1.jpg",
+    "id": 291
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Tynguely",
+    "image":"./assets/images/Tynguely2.jpg",
+    "id": 292
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Tynguely",
+    "image":"./assets/images/Tynguely3.jpg",
+    "id": 293
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Tynguely",
+    "image":"./assets/images/Tynguely4.jpg",
+    "id": 294
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Calder",
+    "image":"./assets/images/Calder1.jpg",
+    "id": 295
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Calder",
+    "image":"./assets/images/Calder2.jpg",
+    "id": 296
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Calder",
+    "image":"./assets/images/Calder3.jpg",
+    "id": 297
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Calder",
+    "image":"./assets/images/Calder4.jpg",
+    "id": 298
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Calder",
+    "image":"./assets/images/Calder5.jpg",
+    "id": 299
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Bury",
+    "image":"./assets/images/Bury1.jpg",
+    "id": 300
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Bury",
+    "image":"./assets/images/Bury2.jpg",
+    "id": 301
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Haese",
+    "image":"./assets/images/Haese1.jpg",
+    "id": 302
+  },
+  {
+    "Kunststroming":"Kinetische kunst",
+    "Artiest":"Jansen",
+    "image":"./assets/images/Jansen1.jpg",
+    "id": 303
+  },
+  {
+    "Kunststroming":"Optische kunst",
+    "Artiest":"Riley",
+    "image":"./assets/images/Riley1.jpg",
+    "id": 304
+  },
+  {
+    "Kunststroming":"Optische kunst",
+    "Artiest":"Riley",
+    "image":"./assets/images/Riley2.jpg",
+    "id": 305
+  },
+  {
+    "Kunststroming":"Optische kunst",
+    "Artiest":"Vasarely",
+    "image":"./assets/images/Vasarely1.jpg",
+    "id": 306
+  },
+  {
+    "Kunststroming":"Optische kunst",
+    "Artiest":"Vasarely",
+    "image":"./assets/images/Vasarely2.jpg",
+    "id": 307
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Warhol",
+    "image":"./assets/images/Warhol1.jpg",
+    "id": 308
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Warhol",
+    "image":"./assets/images/Warhol2.jpg",
+    "id": 309
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Warhol",
+    "image":"./assets/images/Warhol3.jpg",
+    "id": 310
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Liechtenstein",
+    "image":"./assets/images/Liechtenstein1.jpg",
+    "id": 311
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Liechtenstein",
+    "image":"./assets/images/Liechtenstein2.jpg",
+    "id": 312
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Haring",
+    "image":"./assets/images/Haring1.jpg",
+    "id": 313
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Haring",
+    "image":"./assets/images/Haring2.jpg",
+    "id": 314
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Haring",
+    "image":"./assets/images/Haring3.jpg",
+    "id": 315
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Hockney",
+    "image":"./assets/images/Hockney1.jpg",
+    "id": 316
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Hockney",
+    "image":"./assets/images/Hockney2.jpg",
+    "id": 317
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Hockney",
+    "image":"./assets/images/Hockney3.jpg",
+    "id": 318
+  },
+  {
+    "Kunststroming":"Pop Art",
+    "Artiest":"Hockney",
+    "image":"./assets/images/Hockney4.jpg",
+    "id": 319
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Judd",
+    "image":"./assets/images/Judd1.jpg",
+    "id": 320
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Judd",
+    "image":"./assets/images/Judd2.jpg",
+    "id": 321
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Judd",
+    "image":"./assets/images/Judd3.jpg",
+    "id": 322
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Judd",
+    "image":"./assets/images/Judd4.jpg",
+    "id": 323
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Andre",
+    "image":"./assets/images/Andre1.jpg",
+    "id": 324
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Andre",
+    "image":"./assets/images/Andre2.jpg",
+    "id": 325
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Andre",
+    "image":"./assets/images/Andre3.jpg",
+    "id": 326
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Lewitt",
+    "image":"./assets/images/Lewitt1.jpg",
+    "id": 327
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Lewitt",
+    "image":"./assets/images/Lewitt2.jpg",
+    "id": 328
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Lewitt",
+    "image":"./assets/images/Lewitt3.jpg",
+    "id": 329
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Lewitt",
+    "image":"./assets/images/Lewitt4.jpg",
+    "id": 330
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Flavin",
+    "image":"./assets/images/Flavin1.jpg",
+    "id": 331
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Flavin",
+    "image":"./assets/images/Flavin2.jpg",
+    "id": 332
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Flavin",
+    "image":"./assets/images/Flavin3.jpg",
+    "id": 333
+  },
+  {
+    "Kunststroming":"Minimalisme",
+    "Artiest":"Flavin",
+    "image":"./assets/images/Flavin4.jpg",
+    "id": 334
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Kosuth",
+    "image":"./assets/images/Kosuth1.jpg",
+    "id": 335
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Kosuth",
+    "image":"./assets/images/Kosuth2.jpg",
+    "id": 336
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Kosuth",
+    "image":"./assets/images/Kosuth3.jpg",
+    "id": 337
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Manzoni",
+    "image":"./assets/images/Manzoni1.jpg",
+    "id": 338
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Manzoni",
+    "image":"./assets/images/Manzoni2.jpg",
+    "id": 339
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Beuys",
+    "image":"./assets/images/Beuys1.jpg",
+    "id": 340
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Beuys",
+    "image":"./assets/images/Beuys2.jpg",
+    "id": 341
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Broodthaers",
+    "image":"./assets/images/Broodthaers1.jpg",
+    "id": 342
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Broodthaers",
+    "image":"./assets/images/Broodthaers2.jpg",
+    "id": 343
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Klein",
+    "image":"./assets/images/Klein1.jpg",
+    "id": 344
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Klein",
+    "image":"./assets/images/Klein2.jpg",
+    "id": 345
+  },
+  {
+    "Kunststroming":"Conceptuele kunst",
+    "Artiest":"Klein",
+    "image":"./assets/images/Klein3.jpg",
+    "id": 346
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Abromovic",
+    "image":"./assets/images/Abramovic1.jpg",
+    "id": 347
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Abromovic",
+    "image":"./assets/images/Abramovic2.jpg",
+    "id": 348
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Abromovic",
+    "image":"./assets/images/Abramovic3.jpg",
+    "id": 349
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Nauman",
+    "image":"./assets/images/Nauman1.jpg",
+    "id": 350
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Nauman",
+    "image":"./assets/images/Nauman2.jpg",
+    "id": 351
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Nauman",
+    "image":"./assets/images/Nauman3.jpg",
+    "id": 352
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Hsieh",
+    "image":"./assets/images/Hsieh1.jpg",
+    "id": 353
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Hsieh",
+    "image":"./assets/images/Hsieh2.jpg",
+    "id": 354
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Oppenheim",
+    "image":"./assets/images/Oppenheim1.jpg",
+    "id": 355
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Oppenheim",
+    "image":"./assets/images/Oppenheim2.jpg",
+    "id": 356
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Oppenheim",
+    "image":"./assets/images/Oppenheim3.jpg",
+    "id": 357
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Alys",
+    "image":"./assets/images/Alys1.jpg",
+    "id": 358
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Alys",
+    "image":"./assets/images/Alys2.jpg",
+    "id": 359
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Alys",
+    "image":"./assets/images/Alys3.jpg",
+    "id": 360
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Alys",
+    "image":"./assets/images/Alys4.jpg",
+    "id": 361
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Orlan",
+    "image":"./assets/images/Orlan1.jpg",
+    "id": 362
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Orlan",
+    "image":"./assets/images/Orlan2.jpg",
+    "id": 363
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Stelarc",
+    "image":"./assets/images/Stelarc1.jpg",
+    "id": 364
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Stelarc",
+    "image":"./assets/images/Stelarc2.jpg",
+    "id": 365
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Stelarc",
+    "image":"./assets/images/Stelarc3.jpg",
+    "id": 366
+  },
+  {
+    "Kunststroming":"Performance art",
+    "Artiest":"Stelarc",
+    "image":"./assets/images/Stelarc4.jpg",
+    "id": 367
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Smithson",
+    "image":"./assets/images/Smithson1.jpg",
+    "id": 368
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Smithson",
+    "image":"./assets/images/Smithson2.jpg",
+    "id": 369
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Smithson",
+    "image":"./assets/images/Smithson3.jpg",
+    "id": 370
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Long",
+    "image":"./assets/images/Long1.jpg",
+    "id": 371
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Long",
+    "image":"./assets/images/Long2.jpg",
+    "id": 372
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Long",
+    "image":"./assets/images/Long3.jpg",
+    "id": 373
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Heizer",
+    "image":"./assets/images/Heizer1.jpg",
+    "id": 374
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Heizer",
+    "image":"./assets/images/Heizer2.jpg",
+    "id": 375
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Heizer",
+    "image":"./assets/images/Heizer3.jpg",
+    "id": 376
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Heizer",
+    "image":"./assets/images/Heizer4.jpg",
+    "id": 377
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Goldsworthy",
+    "image":"./assets/images/Goldsworthy1.jpg",
+    "id": 378
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Goldsworthy",
+    "image":"./assets/images/Goldsworthy2.jpg",
+    "id": 379
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Goldsworthy",
+    "image":"./assets/images/Goldsworthy3.jpg",
+    "id": 380
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Goldsworthy",
+    "image":"./assets/images/Goldsworthy4.jpg",
+    "id": 381
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Goldsworthy",
+    "image":"./assets/images/Goldsworthy5.jpg",
+    "id": 382
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Goldsworthy",
+    "image":"./assets/images/Goldsworthy6.jpg",
+    "id": 383
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Serra",
+    "image":"./assets/images/Serra1.jpg",
+    "id": 384
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Serra",
+    "image":"./assets/images/Serra2.jpg",
+    "id": 385
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Serra",
+    "image":"./assets/images/Serra3.jpg",
+    "id": 386
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Serra",
+    "image":"./assets/images/Serra4.jpg",
+    "id": 387
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Christo",
+    "image":"./assets/images/Christo1.jpg",
+    "id": 388
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Christo",
+    "image":"./assets/images/Christo2.jpg",
+    "id": 389
+  },
+  {
+    "Kunststroming":"Land art",
+    "Artiest":"Christo",
+    "image":"./assets/images/Christo3.jpg",
+    "id": 390
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Paik",
+    "image":"./assets/images/Paik1.jpg",
+    "id": 391
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Paik",
+    "image":"./assets/images/Paik2.jpg",
+    "id": 392
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Paik",
+    "image":"./assets/images/Paik3.jpg",
+    "id": 393
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Paik",
+    "image":"./assets/images/Paik4.jpg",
+    "id": 394
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Viola",
+    "image":"./assets/images/Viola1.jpg",
+    "id": 395
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Viola",
+    "image":"./assets/images/Viola2.jpg",
+    "id": 396
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Barney",
+    "image":"./assets/images/Barney1.jpg",
+    "id": 397
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Barney",
+    "image":"./assets/images/Barney2.jpg",
+    "id": 398
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Barney",
+    "image":"./assets/images/Barney3.jpg",
+    "id": 399
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Barney",
+    "image":"./assets/images/Barney4.jpg",
+    "id": 400
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Barney",
+    "image":"./assets/images/Barney5.jpg",
+    "id": 401
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Cunningham",
+    "image":"./assets/images/Cunningham1.jpg",
+    "id": 402
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Cunningham",
+    "image":"./assets/images/Cunningham2.jpg",
+    "id": 403
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Cunningham",
+    "image":"./assets/images/Cunningham3.jpg",
+    "id": 404
+  },
+  {
+    "Kunststroming":"Video art",
+    "Artiest":"Cunningham",
+    "image":"./assets/images/Cunningham4.jpg",
+    "id": 405
+  },
+  {
+    "Kunststroming":"Postmodernisme",
+    "Artiest":"Levine",
+    "image":"./assets/images/Levine1.jpg",
+    "id": 406
+  },
+  {
+    "Kunststroming":"Postmodernisme",
+    "Artiest":"Salle",
+    "image":"./assets/images/Salle1.jpg",
+    "id": 407
+  },
+  {
+    "Kunststroming":"Postmodernisme",
+    "Artiest":"Salle",
+    "image":"./assets/images/Salle2.jpg",
+    "id": 408
+  },
+  {
+    "Kunststroming":"Postmodernisme",
+    "Artiest":"Sherman",
+    "image":"./assets/images/Sherman1.jpg",
+    "id": 409
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Richter",
+    "image":"./assets/images/Richter1.jpg",
+    "id": 410
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Richter",
+    "image":"./assets/images/Richter2.jpg",
+    "id": 411
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Richter",
+    "image":"./assets/images/Richter3.jpg",
+    "id": 412
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Baeden",
+    "image":"./assets/images/Baeden1.jpg",
+    "id": 413
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Baeden",
+    "image":"./assets/images/Baeden2.jpg",
+    "id": 414
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Baeden",
+    "image":"./assets/images/Baeden3.jpg",
+    "id": 415
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Estes",
+    "image":"./assets/images/Estes1.jpg",
+    "id": 416
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Estes",
+    "image":"./assets/images/Estes2.jpg",
+    "id": 417
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Estes",
+    "image":"./assets/images/Estes3.jpg",
+    "id": 418
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Close",
+    "image":"./assets/images/Close1.jpg",
+    "id": 419
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Close",
+    "image":"./assets/images/Close2.jpg",
+    "id": 420
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Close",
+    "image":"./assets/images/Close3.jpg",
+    "id": 421
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Close",
+    "image":"./assets/images/Close4.jpg",
+    "id": 422
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Ortner",
+    "image":"./assets/images/Ortner1.jpg",
+    "id": 423
+  },
+  {
+    "Kunststroming":"Fotorealisme",
+    "Artiest":"Ortner",
+    "image":"./assets/images/Ortner2.jpg",
+    "id": 424
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Freud",
+    "image":"./assets/images/Freud1.jpg",
+    "id": 425
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Freud",
+    "image":"./assets/images/Freud2.jpg",
+    "id": 426
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Freud",
+    "image":"./assets/images/Freud3.jpg",
+    "id": 427
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Freud",
+    "image":"./assets/images/Freud4.jpg",
+    "id": 428
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Freud",
+    "image":"./assets/images/Freud5.jpg",
+    "id": 429
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Freud",
+    "image":"./assets/images/Freud6.jpg",
+    "id": 430
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Andrews",
+    "image":"./assets/images/Andrews1.jpg",
+    "id": 431
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Auerbach",
+    "image":"./assets/images/Auerbach1.jpg",
+    "id": 432
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Kitaj",
+    "image":"./assets/images/Kitaj1.jpg",
+    "id": 433
+  },
+  {
+    "Kunststroming":"London School",
+    "Artiest":"Bacon",
+    "image":"./assets/images/Bacon1.jpg",
+    "id": 434
+  },
+  {
+    "Kunststroming":"Neo Expressionisme",
+    "Artiest":"Guston",
+    "image":"./assets/images/Guston1.jpg",
+    "id": 435
+  },
+  {
+    "Kunststroming":"Neo Expressionisme",
+    "Artiest":"Kiefer",
+    "image":"./assets/images/Kiefer1.jpg",
+    "id": 436
+  },
+  {
+    "Kunststroming":"Neo Expressionisme",
+    "Artiest":"Kiefer",
+    "image":"./assets/images/Kiefer2.jpg",
+    "id": 437
+  },
+  {
+    "Kunststroming":"Neo Expressionisme",
+    "Artiest":"Kiefer",
+    "image":"./assets/images/Kiefer3.jpg",
+    "id": 438
+  },
+  {
+    "Kunststroming":"Neo Expressionisme",
+    "Artiest":"Kiefer",
+    "image":"./assets/images/Kiefer4.jpg",
+    "id": 439
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons1.jpg",
+    "id": 440
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons2.jpg",
+    "id": 441
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons3.jpg",
+    "id": 442
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons4.jpg",
+    "id": 443
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons5.jpg",
+    "id": 444
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons6.jpg",
+    "id": 445
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons7.jpg",
+    "id": 446
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Koons",
+    "image":"./assets/images/Koons8.jpg",
+    "id": 447
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Steinbach",
+    "image":"./assets/images/Steinbach1.jpg",
+    "id": 448
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Steinbach",
+    "image":"./assets/images/Steinbach2.jpg",
+    "id": 449
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Steinbach",
+    "image":"./assets/images/Steinbach3.jpg",
+    "id": 450
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Murakami",
+    "image":"./assets/images/Murakami1.jpg",
+    "id": 451
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Murakami",
+    "image":"./assets/images/Murakami2.jpg",
+    "id": 452
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Murakami",
+    "image":"./assets/images/Murakami3.jpg",
+    "id": 453
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Murakami",
+    "image":"./assets/images/Murakami4.jpg",
+    "id": 454
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Murakami",
+    "image":"./assets/images/Murakami5.jpg",
+    "id": 455
+  },
+  {
+    "Kunststroming":"Neo Pop",
+    "Artiest":"Murakami",
+    "image":"./assets/images/Murakami6.jpg",
+    "id": 456
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor1.jpg",
+    "id": 457
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor2.jpg",
+    "id": 458
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor3.jpg",
+    "id": 459
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor4.jpg",
+    "id": 460
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor5.jpg",
+    "id": 461
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor6.jpg",
+    "id": 462
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor7.jpg",
+    "id": 463
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Kapoor",
+    "image":"./assets/images/Kapoor8.jpg",
+    "id": 464
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Cragg",
+    "image":"./assets/images/Cragg1.jpg",
+    "id": 465
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Cragg",
+    "image":"./assets/images/Cragg2.jpg",
+    "id": 466
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Cragg",
+    "image":"./assets/images/Cragg3.jpg",
+    "id": 467
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Cragg",
+    "image":"./assets/images/Cragg4.jpg",
+    "id": 468
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Deacon",
+    "image":"./assets/images/Deacon1.jpg",
+    "id": 469
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Deacon",
+    "image":"./assets/images/Deacon2.jpg",
+    "id": 470
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Deacon",
+    "image":"./assets/images/Deacon3.jpg",
+    "id": 471
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Gormley",
+    "image":"./assets/images/Gormley1.jpg",
+    "id": 472
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Gormley",
+    "image":"./assets/images/Gormley1.jpg",
+    "id": 473
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Gormley",
+    "image":"./assets/images/Gormley2.jpg",
+    "id": 474
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Gormley",
+    "image":"./assets/images/Gormley3.jpg",
+    "id": 475
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Gormley",
+    "image":"./assets/images/Gormley4.jpg",
+    "id": 476
+  },
+  {
+    "Kunststroming":"New British Sculpture",
+    "Artiest":"Gormley",
+    "image":"./assets/images/Gormley5.jpg",
+    "id": 477
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Hirst",
+    "image":"./assets/images/Hirst1.jpg",
+    "id": 488
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Hirst",
+    "image":"./assets/images/Hirst2.jpg",
+    "id": 489
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Hirst",
+    "image":"./assets/images/Hirst3.jpg",
+    "id": 490
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Hirst",
+    "image":"./assets/images/Hirst4.jpg",
+    "id": 491
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Chapman",
+    "image":"./assets/images/Chapman1.jpg",
+    "id": 492
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Chapman",
+    "image":"./assets/images/Chapman2.jpg",
+    "id": 493
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Chapman",
+    "image":"./assets/images/Chapman3.jpg",
+    "id": 494
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Chapman",
+    "image":"./assets/images/Chapman4.jpg",
+    "id": 495
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Chapman",
+    "image":"./assets/images/Chapman5.jpg",
+    "id": 496
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Mueck",
+    "image":"./assets/images/Mueck1.jpg",
+    "id": 497
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Mueck",
+    "image":"./assets/images/Mueck2.jpg",
+    "id": 498
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Mueck",
+    "image":"./assets/images/Mueck3.jpg",
+    "id": 499
+  },
+  {
+    "Kunststroming":"Sensationalism",
+    "Artiest":"Emin",
+    "image":"./assets/images/Emin1.jpg",
+    "id": 500
+  },
+  {
+    "Kunststroming":"Installation art",
+    "Artiest":"Kienholz",
+    "image":"./assets/images/Kienholz1.jpg",
+    "id": 501
+  },
+  {
+    "Kunststroming":"Installation art",
+    "Artiest":"Kienholz",
+    "image":"./assets/images/Kienholz2.jpg",
+    "id": 502
+  },
+  {
+    "Kunststroming":"Installation art",
+    "Artiest":"Turrell",
+    "image":"./assets/images/Turrell1.jpg",
+    "id": 503
+  },
+  {
+    "Kunststroming":"Art Intervention",
+    "Artiest":"Matta-Clarck",
+    "image":"./assets/images/MattaClark1.jpg",
+    "id": 504
+  },
+  {
+    "Kunststroming":"Art Intervention",
+    "Artiest":"Buren",
+    "image":"./assets/images/Buren1.jpg",
+    "id": 505
+  },
+  {
+    "Kunststroming":"Art Intervention",
+    "Artiest":"Cattelan",
+    "image":"./assets/images/Cattelan1.jpg",
+    "id": 506
+  },
+  {
+    "Kunststroming":"Art Intervention",
+    "Artiest":"Cattelan",
+    "image":"./assets/images/Cattelan2.jpg",
+    "id": 507
+  },
+  {
+    "Kunststroming":"Art Intervention",
+    "Artiest":"Cattelan",
+    "image":"./assets/images/Cattelan3.jpg",
+    "id": 508
+  },
+  {
+    "Kunststroming":"Art Intervention",
+    "Artiest":"Cattelan",
+    "image":"./assets/images/Cattelan4.jpg",
+    "id": 509
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Banksy",
+    "image":"./assets/images/Banksy1.jpg",
+    "id": 510
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Banksy",
+    "image":"./assets/images/Banksy2.jpg",
+    "id": 511
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Banksy",
+    "image":"./assets/images/Banksy3.jpg",
+    "id": 512
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Banksy",
+    "image":"./assets/images/Banksy4.jpg",
+    "id": 513
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Fairey",
+    "image":"./assets/images/Fairey1.jpg",
+    "id": 514
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Fairey",
+    "image":"./assets/images/Fairey2.jpg",
+    "id": 515
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Fairey",
+    "image":"./assets/images/Fairey3.jpg",
+    "id": 516
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Farto",
+    "image":"./assets/images/Farto1.jpg",
+    "id": 478
+  },
+  {
+    "Kunststroming":"Street Art",
+    "Artiest":"Farto",
+    "image":"./assets/images/Farto2.jpg",
+    "id": 479
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Attia",
+    "image":"./assets/images/Attia1.jpg",
+    "id": 480
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Attia",
+    "image":"./assets/images/Attia2.jpg",
+    "id": 481
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Weiwei",
+    "image":"./assets/images/Weiwei1.jpg",
+    "id": 482
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Weiwei",
+    "image":"./assets/images/Weiwei2.jpg",
+    "id": 483
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Weiwei",
+    "image":"./assets/images/Weiwei3.jpg",
+    "id": 484
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Weiwei",
+    "image":"./assets/images/Weiwei4.jpg",
+    "id": 485
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Weiwei",
+    "image":"./assets/images/Weiwei5.jpg",
+    "id": 486
+  },
+  {
+    "Kunststroming":"Internationalisme",
+    "Artiest":"Gupta",
+    "image":"./assets/images/Gupta1.jpg",
+    "id": 487
+  }
+]

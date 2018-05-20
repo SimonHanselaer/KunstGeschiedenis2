@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.imageClass {
+  position: absolute;
+  left: 90rem;
+  top: 5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+form {
+  padding: 3rem;
+}
